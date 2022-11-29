@@ -2,9 +2,9 @@
 
 ##
 <div>
- <a href="https://github.com/leroriginal30"> <br>
+ <a href="https://github.com/leroriginal30">
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=leroriginal30&show_icons=true&theme=onedark&include_all_comitstrue&count_private=true"/>
-  <br>
+  <br><br>
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leroriginal30&theme=onedark&layout=compact&langs_count=16"/>
   </center>
  </div>
