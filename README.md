@@ -2,7 +2,7 @@
 
 ##
 <div>
- <a href="https://github.com/leroriginal30"> 
+ <a href="https://github.com/leroriginal30"> <br>
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=leroriginal30&show_icons=true&theme=onedark&include_all_comitstrue&count_private=true"/>
   <br>
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leroriginal30&theme=onedark&layout=compact&langs_count=16"/>
